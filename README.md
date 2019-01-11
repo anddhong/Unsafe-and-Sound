@@ -1,2 +1,2 @@
 # Unsafe-and-Sound
- multiplayer shooting game in built with Pygame that uses beat detection to create the games levels
+A multiplayer shooting game in built using Pygame and NumPy that uses beat detection to create the games levels.
