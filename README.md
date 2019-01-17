@@ -1,6 +1,6 @@
 # Unsafe-and-Sound
  multiplayer shooting game in built with Pygame that uses beat detection to create the games levels.
- 
+ *Make sure that Pygame, Pyaudio, and Librosa modules are installed 
  
 Instructions: Run the gameDemo.py file, but give it a few
 seconds as the modules take a while to load,
